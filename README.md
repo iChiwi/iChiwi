@@ -4,7 +4,7 @@
 <b>E-mail Address:</b> noortantawy43@gmail.com<br>
 <b>Discord Username:</b> ichiwi
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connections:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/noortantawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Noor Tantawy" height="50" width="50" /></a>&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/noortantawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/Codeforces.png" alt="Codeforces Profile of Noor Tantawy" height="50" width="50" /></a>&nbsp;&nbsp;
