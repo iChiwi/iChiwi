@@ -2,7 +2,7 @@
 <p align="center">A computer science student that is committed to personal and professional growth to reach his full potential.</p>
 
 <b>Website:</b> <a href="https://ichiwi.me" target="_blank">ichiwi.me</a><br>
-<b>E-mail Address:</b> noortantawy43@gmail.com<br>
+<b>E-mail Address:</b> contact@ichiwi.me<br>
 <b>Discord Username:</b> ichiwi
 
 <h3 align="left">Connections:</h3>
