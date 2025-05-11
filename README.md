@@ -38,13 +38,4 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iChiwi&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="iChiwi GitHub Stats" /> <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=iChiwi&theme=dracula&hide_border=true" alt="iChiwi GitHub Streak" /> <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iChiwi&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="iChiwi Top Languages" />
-</p>
-
-<h3 align="left">Visitor Count:</h3>
-<p align="center">
-  <a href="https://visitcount.itsvg.in" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=iChiwi&icon=5&color=5" alt="Visitor Count for iChiwi GitHub Profile" />
-  </a>
 </p>
