@@ -4,9 +4,7 @@
 <b>Website:</b> <a href="https://ichiwi.me" target="_blank">ichiwi.me</a><br>
 <b>E-mail Address:</b> contact@ichiwi.me<br>
 <b>Discord Username:</b> ichiwi
-
-<hr />
-<h3 align="left">Connections:</h3>
+<b>Connections:</b>
 <p align="center">
 <a href="https://linkedin.com/in/noortantawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Noor Tantawy" height="50" width="50" /></a>&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/noortantawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/Codeforces.png" alt="Codeforces Profile of Noor Tantawy" height="50" width="50" /></a>&nbsp;&nbsp;
