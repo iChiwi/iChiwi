@@ -1,9 +1,6 @@
 <h1 align="center">Noor Tantawy</h1>
 <p align="center">A computer science student that is committed to personal and professional growth to reach his full potential.</p>
 
-<b>Website:</b> <a href="https://ichiwi.me" target="_blank">ichiwi.me</a><br>
-<b>E-mail Address:</b> contact@ichiwi.me<br>
-<b>Discord Username:</b> ichiwi<br>
 <b>Connections:</b>
 <p align="center">
 <a href="https://linkedin.com/in/noortantawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/iChiwi/iChiwi/refs/heads/main/src/LinkedIn.png" alt="LinkedIn Profile of Noor Tantawy" height="50" width="50" /></a>&nbsp;&nbsp;
