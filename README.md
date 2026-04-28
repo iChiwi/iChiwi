@@ -2,13 +2,13 @@
 
 ## Connections
 
+[![Email](https://img.shields.io/badge/Email-0F0F0F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noortantawy43@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noortantawy)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/noortantawy)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17390236)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@noortantawy)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noortantawyyy)
-[![Email](https://img.shields.io/badge/Email-0F0F0F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noortantawy43@gmail.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/iChiwi)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noortantawyyy)
 
 ## Tech Stack
 
