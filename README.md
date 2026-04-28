@@ -1,7 +1,5 @@
 # Noor Tantawy
 
-Computer science student focused on building clean, reliable software.
-
 ## Connections
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noortantawy)
